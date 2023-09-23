@@ -1,0 +1,21 @@
+.clock1 {
+  border: 3px solid red;
+  padding: 20px;
+  color: red;
+  font-size: 50px;
+  font-weight: bold;
+  margin: auto auto;
+  text-align: center;
+}
+.clock2 {
+  border: 3px solid green;
+  padding: 20px;
+  color: green;
+  font-size: 50px;
+  font-weight: bold;
+  margin: auto auto;
+  text-align: center;
+}
+h1{
+    color:green
+}
